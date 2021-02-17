@@ -15,5 +15,6 @@
   - [MScalarSUN](mscalarsun.md)
   - [MSink](msink.md)
   - [MSource](msource.md)
+  - [MSolver](msolver.md)
 
 
